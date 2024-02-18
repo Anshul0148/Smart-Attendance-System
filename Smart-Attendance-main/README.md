@@ -1,4 +1,4 @@
-# SmartAttendance
+# Smart-Attendance-System
 
 The objective of this project is to process live video-stream of students entering their classroom and generate the list of students attending the class.
 The system is coded in Python 3.8 using OpenCv, Tkinter and Numpy libraries.
@@ -34,10 +34,3 @@ The project also requires [Tkinter](https://docs.python.org/3/library/tk.html) a
 * [Tkinter](https://docs.python.org/3/library/tk.html) - GUI Implementation
 * [Numpy](http://www.numpy.org/) - Used to manage computaions.
 * [MySQL](https://dev.mysql.com/doc/) - Used to store student detail.
-
-
-## Authors
-
-- [Ananta Pandey](https://github.com/ananta15)
-- [Akshat Mishra](https://github.com/akshat-20)
-- [Anshika Gupta]()
